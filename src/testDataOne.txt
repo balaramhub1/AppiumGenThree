@@ -1,0 +1,5 @@
+Weight Repitation
+2 9
+3 7
+4 7
+5 5
